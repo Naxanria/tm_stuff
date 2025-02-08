@@ -1048,5 +1048,33 @@
       "player": 1788125,
       "alien": 1488845
     }
+  },
+  {
+    "uid": "MkEUviHygKzVv_MVfFznI0Kf6xg",
+    "tmId": 177289,
+    "name": "[RPG] Oblivion - Novice",
+    "author": "Qiraj",
+    "pvm": {
+      "grade": "Omniscient",
+      "noob": 1545000,
+      "intermediate": 731258,
+      "challenger": 502245,
+      "player": 0,
+      "alien": 0
+    }
+  },
+  {
+    "uid": "66QTibm8pQ9F0QPB537mtTRyaz2",
+    "tmId": 78381,
+    "name": "[RPG] Oblivion",
+    "author": "Qiraj",
+    "pvm": {
+      "grade": "Omniscient",
+      "noob": 0,
+      "intermediate": 0,
+      "challenger": 0,
+      "player": 489415,
+      "alien": 462123
+    }
   }
 ]
