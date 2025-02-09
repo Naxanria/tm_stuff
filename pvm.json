@@ -540,9 +540,9 @@
       "grade": "S",
       "noob": 602471,
       "intermediate": 535173,
-      "challenger": 472453,
-      "player": 446977,
-      "alien": 429512
+      "challenger": 489512,
+      "player": 472453,
+      "alien": 446977
     }
   },
   {
@@ -876,7 +876,7 @@
       "grade": "Omniscient",
       "noob": 2980812,
       "intermediate": 2159458,
-      "challenger": 1480812,
+      "challenger": 1512812,
       "player": 1452812,
       "alien": 1439458
     }
@@ -932,8 +932,8 @@
       "grade": "Divin",
       "noob": 2805548,
       "intermediate": 1945256,
-      "challenger": 1374026,
-      "player": 1096568,
+      "challenger": 1406568,
+      "player": 1374026,
       "alien": 995165
     }
   },
