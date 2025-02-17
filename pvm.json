@@ -863,8 +863,8 @@
       "noob": 1545000,
       "intermediate": 731258,
       "challenger": 502245,
-      "player": -1,
-      "alien": -1
+      "player": 0,
+      "alien": 0
     }
   },
   {
@@ -1084,9 +1084,9 @@
     "author": "Qiraj",
     "pvm": {
       "grade": "Omniscient",
-      "noob": -1,
-      "intermediate": -1,
-      "challenger": -1,
+      "noob": 0,
+      "intermediate": 0,
+      "challenger": 0,
       "player": 489415,
       "alien": 462123
     }
