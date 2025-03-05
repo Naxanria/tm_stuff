@@ -10,7 +10,8 @@
       "intermediate": 45358,
       "challenger": 43153,
       "player": 42453,
-      "alien": 39525
+      "alien": 39525,
+      "no_way": 37598
     }
   },
   {
@@ -24,7 +25,8 @@
       "intermediate": 89654,
       "challenger": 83977,
       "player": 83177,
-      "alien": 79874
+      "alien": 79874,
+      "no_way": 77156
     }
   },
   {
@@ -38,7 +40,8 @@
       "intermediate": 125156,
       "challenger": 118751,
       "player": 116651,
-      "alien": 109652
+      "alien": 109652,
+      "no_way": 106611
     }
   },
   {
@@ -52,7 +55,8 @@
       "intermediate": 142574,
       "challenger": 131574,
       "player": 129574,
-      "alien": 121789
+      "alien": 121789,
+      "no_way": 117274
     }
   },
   {
@@ -66,7 +70,8 @@
       "intermediate": 270564,
       "challenger": 243127,
       "player": 240687,
-      "alien": 231545
+      "alien": 231545,
+      "no_way": 216887
     }
   },
   {
@@ -80,7 +85,8 @@
       "intermediate": 315354,
       "challenger": 298483,
       "player": 291483,
-      "alien": 279057
+      "alien": 279057,
+      "no_way": 269988
     }
   },
   {
@@ -94,7 +100,8 @@
       "intermediate": 65851,
       "challenger": 62844,
       "player": 62190,
-      "alien": 57832
+      "alien": 57832,
+      "no_way": 55168
     }
   },
   {
@@ -108,7 +115,8 @@
       "intermediate": 72658,
       "challenger": 65257,
       "player": 63850,
-      "alien": 62298
+      "alien": 62298,
+      "no_way": 60496
     }
   },
   {
@@ -122,7 +130,8 @@
       "intermediate": 247457,
       "challenger": 186813,
       "player": 181453,
-      "alien": 176133
+      "alien": 176133,
+      "no_way": 169223
     }
   },
   {
@@ -136,7 +145,8 @@
       "intermediate": 260364,
       "challenger": 209457,
       "player": 204541,
-      "alien": 197348
+      "alien": 197348,
+      "no_way": 189089
     }
   },
   {
@@ -150,7 +160,8 @@
       "intermediate": 339688,
       "challenger": 297993,
       "player": 285158,
-      "alien": 269688
+      "alien": 269688,
+      "no_way": 259915
     }
   },
   {
@@ -164,7 +175,8 @@
       "intermediate": 351152,
       "challenger": 323775,
       "player": 311555,
-      "alien": 299153
+      "alien": 299153,
+      "no_way": 289433
     }
   },
   {
@@ -178,7 +190,8 @@
       "intermediate": 68979,
       "challenger": 65194,
       "player": 63974,
-      "alien": 60559
+      "alien": 60559,
+      "no_way": 58302
     }
   },
   {
@@ -192,7 +205,8 @@
       "intermediate": 140454,
       "challenger": 121198,
       "player": 115564,
-      "alien": 107521
+      "alien": 107521,
+      "no_way": 102814
     }
   },
   {
@@ -206,7 +220,8 @@
       "intermediate": 172452,
       "challenger": 158564,
       "player": 152452,
-      "alien": 145758
+      "alien": 145758,
+      "no_way": 141434
     }
   },
   {
@@ -220,7 +235,8 @@
       "intermediate": 205852,
       "challenger": 178853,
       "player": 173496,
-      "alien": 160869
+      "alien": 160869,
+      "no_way": 158178
     }
   },
   {
@@ -234,7 +250,8 @@
       "intermediate": 255952,
       "challenger": 217354,
       "player": 206784,
-      "alien": 195880
+      "alien": 195880,
+      "no_way": 187918
     }
   },
   {
@@ -248,7 +265,8 @@
       "intermediate": 265425,
       "challenger": 221841,
       "player": 208841,
-      "alien": 199898
+      "alien": 199898,
+      "no_way": 196527
     }
   },
   {
@@ -262,7 +280,8 @@
       "intermediate": 440540,
       "challenger": 386434,
       "player": 363844,
-      "alien": 348543
+      "alien": 348543,
+      "no_way": 333321
     }
   },
   {
@@ -276,7 +295,8 @@
       "intermediate": 181874,
       "challenger": 175003,
       "player": 166523,
-      "alien": 156785
+      "alien": 156785,
+      "no_way": 149983
     }
   },
   {
@@ -290,7 +310,8 @@
       "intermediate": 199426,
       "challenger": 180248,
       "player": 172456,
-      "alien": 164675
+      "alien": 164675,
+      "no_way": 160842
     }
   },
   {
@@ -304,7 +325,8 @@
       "intermediate": 298584,
       "challenger": 284142,
       "player": 277452,
-      "alien": 262844
+      "alien": 262844,
+      "no_way": 257844
     }
   },
   {
@@ -318,7 +340,8 @@
       "intermediate": 293257,
       "challenger": 254234,
       "player": 238555,
-      "alien": 222456
+      "alien": 222456,
+      "no_way": 214565
     }
   },
   {
@@ -332,7 +355,8 @@
       "intermediate": 325254,
       "challenger": 291562,
       "player": 241782,
-      "alien": 226010
+      "alien": 220010,
+      "no_way": 209256
     }
   },
   {
@@ -346,7 +370,8 @@
       "intermediate": 345450,
       "challenger": 338451,
       "player": 324102,
-      "alien": 309850
+      "alien": 309850,
+      "no_way": 299645
     }
   },
   {
@@ -360,7 +385,8 @@
       "intermediate": 135658,
       "challenger": 124354,
       "player": 122671,
-      "alien": 118945
+      "alien": 118945,
+      "no_way": 114799
     }
   },
   {
@@ -374,7 +400,8 @@
       "intermediate": 204958,
       "challenger": 171324,
       "player": 163285,
-      "alien": 155852
+      "alien": 155852,
+      "no_way": 150327
     }
   },
   {
@@ -388,7 +415,8 @@
       "intermediate": 245654,
       "challenger": 216571,
       "player": 204541,
-      "alien": 195545
+      "alien": 195545,
+      "no_way": 186923
     }
   },
   {
@@ -402,7 +430,8 @@
       "intermediate": 265399,
       "challenger": 235151,
       "player": 222921,
-      "alien": 214412
+      "alien": 214412,
+      "no_way": 205146
     }
   },
   {
@@ -416,7 +445,8 @@
       "intermediate": 279336,
       "challenger": 247564,
       "player": 238555,
-      "alien": 222897
+      "alien": 222897,
+      "no_way": 213453
     }
   },
   {
@@ -430,7 +460,8 @@
       "intermediate": 265125,
       "challenger": 248204,
       "player": 238546,
-      "alien": 227254
+      "alien": 227254,
+      "no_way": 220979
     }
   },
   {
@@ -444,7 +475,8 @@
       "intermediate": 535173,
       "challenger": 489512,
       "player": 472453,
-      "alien": 446977
+      "alien": 446977,
+      "no_way": 433455
     }
   },
   {
@@ -458,7 +490,8 @@
       "intermediate": 285125,
       "challenger": 241615,
       "player": 231125,
-      "alien": 219546
+      "alien": 219546,
+      "no_way": 203781
     }
   },
   {
@@ -472,7 +505,8 @@
       "intermediate": 272125,
       "challenger": 233422,
       "player": 224555,
-      "alien": 215453
+      "alien": 215453,
+      "no_way": 205453
     }
   },
   {
@@ -486,7 +520,8 @@
       "intermediate": 349521,
       "challenger": 316321,
       "player": 301894,
-      "alien": 290197
+      "alien": 290197,
+      "no_way": 275439
     }
   },
   {
@@ -500,7 +535,8 @@
       "intermediate": 435415,
       "challenger": 382284,
       "player": 369415,
-      "alien": 355886
+      "alien": 355886,
+      "no_way": 331420
     }
   },
   {
@@ -514,7 +550,8 @@
       "intermediate": 475774,
       "challenger": 431561,
       "player": 418415,
-      "alien": 391005
+      "alien": 391005,
+      "no_way": 372589
     }
   },
   {
@@ -528,7 +565,8 @@
       "intermediate": 553543,
       "challenger": 461294,
       "player": 435294,
-      "alien": 399236
+      "alien": 399236,
+      "no_way": 369016
     }
   },
   {
@@ -542,7 +580,8 @@
       "intermediate": 537524,
       "challenger": 482524,
       "player": 468524,
-      "alien": 444524
+      "alien": 444524,
+      "no_way": 0
     }
   },
   {
@@ -556,7 +595,8 @@
       "intermediate": 134109,
       "challenger": 129561,
       "player": 122178,
-      "alien": 119109
+      "alien": 119109,
+      "no_way": 114893
     }
   },
   {
@@ -570,7 +610,8 @@
       "intermediate": 211846,
       "challenger": 142516,
       "player": 135846,
-      "alien": 127890
+      "alien": 127890,
+      "no_way": 124815
     }
   },
   {
@@ -584,7 +625,8 @@
       "intermediate": 271587,
       "challenger": 219513,
       "player": 208987,
-      "alien": 193088
+      "alien": 193088,
+      "no_way": 182954
     }
   },
   {
@@ -598,7 +640,8 @@
       "intermediate": 375415,
       "challenger": 282321,
       "player": 269978,
-      "alien": 256897
+      "alien": 256897,
+      "no_way": 246835
     }
   },
   {
@@ -612,7 +655,8 @@
       "intermediate": 591123,
       "challenger": 482873,
       "player": 468123,
-      "alien": 438325
+      "alien": 438325,
+      "no_way": 429154
     }
   },
   {
@@ -626,7 +670,8 @@
       "intermediate": 1065201,
       "challenger": 813542,
       "player": 765548,
-      "alien": 711949
+      "alien": 711949,
+      "no_way": 0
     }
   },
   {
@@ -640,7 +685,8 @@
       "intermediate": 65999,
       "challenger": 64863,
       "player": 63963,
-      "alien": 60452
+      "alien": 60452,
+      "no_way": 58905
     }
   },
   {
@@ -654,7 +700,8 @@
       "intermediate": 251147,
       "challenger": 218324,
       "player": 211874,
-      "alien": 201954
+      "alien": 201954,
+      "no_way": 194733
     }
   },
   {
@@ -668,7 +715,8 @@
       "intermediate": 417569,
       "challenger": 288021,
       "player": 266253,
-      "alien": 247850
+      "alien": 247850,
+      "no_way": 237518
     }
   },
   {
@@ -682,7 +730,8 @@
       "intermediate": 439652,
       "challenger": 282354,
       "player": 266325,
-      "alien": 255105
+      "alien": 255105,
+      "no_way": 242319
     }
   },
   {
@@ -696,7 +745,8 @@
       "intermediate": 435152,
       "challenger": 394564,
       "player": 379652,
-      "alien": 368463
+      "alien": 368463,
+      "no_way": 0
     }
   },
   {
@@ -710,7 +760,8 @@
       "intermediate": 502251,
       "challenger": 423454,
       "player": 405524,
-      "alien": 387654
+      "alien": 387654,
+      "no_way": 374442
     }
   },
   {
@@ -724,7 +775,8 @@
       "intermediate": 984687,
       "challenger": 863250,
       "player": 824564,
-      "alien": 795651
+      "alien": 795651,
+      "no_way": 0
     }
   },
   {
@@ -738,7 +790,8 @@
       "intermediate": 200458,
       "challenger": 194671,
       "player": 185671,
-      "alien": 175496
+      "alien": 175496,
+      "no_way": 171997
     }
   },
   {
@@ -752,7 +805,8 @@
       "intermediate": 345123,
       "challenger": 268354,
       "player": 252123,
-      "alien": 242665
+      "alien": 242665,
+      "no_way": 232776
     }
   },
   {
@@ -766,7 +820,8 @@
       "intermediate": 465489,
       "challenger": 397789,
       "player": 378789,
-      "alien": 359699
+      "alien": 359699,
+      "no_way": 347338
     }
   },
   {
@@ -780,7 +835,8 @@
       "intermediate": 625354,
       "challenger": 361564,
       "player": 341874,
-      "alien": 329982
+      "alien": 329982,
+      "no_way": 0
     }
   },
   {
@@ -794,7 +850,8 @@
       "intermediate": 625258,
       "challenger": 427321,
       "player": 411458,
-      "alien": 395158
+      "alien": 395158,
+      "no_way": 378546
     }
   },
   {
@@ -808,7 +865,8 @@
       "intermediate": 763784,
       "challenger": 561564,
       "player": 538654,
-      "alien": 523784
+      "alien": 523784,
+      "no_way": 506975
     }
   },
   {
@@ -822,7 +880,8 @@
       "intermediate": 895253,
       "challenger": 691564,
       "player": 655253,
-      "alien": 638235
+      "alien": 638235,
+      "no_way": 625754
     }
   },
   {
@@ -836,7 +895,8 @@
       "intermediate": 463598,
       "challenger": 298354,
       "player": 283598,
-      "alien": 269723
+      "alien": 269723,
+      "no_way": 257322
     }
   },
   {
@@ -850,7 +910,8 @@
       "intermediate": 495796,
       "challenger": 405453,
       "player": 389835,
-      "alien": 374354
+      "alien": 374354,
+      "no_way": 365085
     }
   },
   {
@@ -864,7 +925,8 @@
       "intermediate": 518459,
       "challenger": 464324,
       "player": 443459,
-      "alien": 407127
+      "alien": 407127,
+      "no_way": 393025
     }
   },
   {
@@ -878,7 +940,8 @@
       "intermediate": 731258,
       "challenger": 502245,
       "player": 0,
-      "alien": 0
+      "alien": 0,
+      "no_way": 0
     }
   },
   {
@@ -892,7 +955,8 @@
       "intermediate": 797647,
       "challenger": 607425,
       "player": 586158,
-      "alien": 561846
+      "alien": 561846,
+      "no_way": 538212
     }
   },
   {
@@ -906,7 +970,8 @@
       "intermediate": 2159458,
       "challenger": 1512812,
       "player": 1480812,
-      "alien": 1439458
+      "alien": 1439458,
+      "no_way": 0
     }
   },
   {
@@ -915,12 +980,13 @@
     "name": "Quandary Islands",
     "author": "Qiraj",
     "pvm": {
-      "grade": "Divin",
+      "grade": "Divine",
       "noob": 1514584,
       "intermediate": 598231,
       "challenger": 371575,
       "player": 355584,
-      "alien": 338231
+      "alien": 338231,
+      "no_way": 325845
     }
   },
   {
@@ -929,12 +995,13 @@
     "name": "Adhara",
     "author": "Fab",
     "pvm": {
-      "grade": "Divin",
+      "grade": "Divine",
       "noob": 1901564,
       "intermediate": 647561,
       "challenger": 421546,
       "player": 398594,
-      "alien": 378561
+      "alien": 378561,
+      "no_way": 369011
     }
   },
   {
@@ -943,12 +1010,13 @@
     "name": "Portal Mania",
     "author": "Glocom",
     "pvm": {
-      "grade": "Divin",
+      "grade": "Divine",
       "noob": 2370487,
       "intermediate": 1290389,
       "challenger": 814576,
       "player": 776119,
-      "alien": 719090
+      "alien": 719090,
+      "no_way": 642546
     }
   },
   {
@@ -957,12 +1025,13 @@
     "name": "Flip It",
     "author": "Qiraj",
     "pvm": {
-      "grade": "Divin",
+      "grade": "Divine",
       "noob": 2805548,
       "intermediate": 1945256,
       "challenger": 1406568,
       "player": 1374026,
-      "alien": 995165
+      "alien": 995165,
+      "no_way": 0
     }
   },
   {
@@ -971,12 +1040,13 @@
     "name": "A NIGHT IN TOKYO",
     "author": "Banano_TV",
     "pvm": {
-      "grade": "Divin",
+      "grade": "Divine",
       "noob": 2925258,
       "intermediate": 2145258,
       "challenger": 1413876,
       "player": 1056258,
-      "alien": 959489
+      "alien": 959489,
+      "no_way": 0
     }
   },
   {
@@ -985,12 +1055,13 @@
     "name": "Rubik\u0027s Cube",
     "author": "Heasto",
     "pvm": {
-      "grade": "Divin",
+      "grade": "Divine",
       "noob": 4530852,
       "intermediate": 2730458,
       "challenger": 1390733,
       "player": 1340587,
-      "alien": 1199985
+      "alien": 1199985,
+      "no_way": 0
     }
   },
   {
@@ -999,12 +1070,13 @@
     "name": "The 100  Carcassonne",
     "author": "fzztichta",
     "pvm": {
-      "grade": "Divin",
+      "grade": "Divine",
       "noob": 5214541,
       "intermediate": 3332547,
       "challenger": 2400354,
       "player": 2280000,
-      "alien": 1860000
+      "alien": 1860000,
+      "no_way": 0
     }
   },
   {
@@ -1018,7 +1090,8 @@
       "intermediate": 395547,
       "challenger": 261357,
       "player": 255258,
-      "alien": 240218
+      "alien": 240218,
+      "no_way": 229498
     }
   },
   {
@@ -1032,7 +1105,8 @@
       "intermediate": 1375125,
       "challenger": 785635,
       "player": 763125,
-      "alien": 703485
+      "alien": 692485,
+      "no_way": 666834
     }
   },
   {
@@ -1046,7 +1120,8 @@
       "intermediate": 3169439,
       "challenger": 1593459,
       "player": 1367456,
-      "alien": 1045256
+      "alien": 1045256,
+      "no_way": 0
     }
   },
   {
@@ -1060,7 +1135,8 @@
       "intermediate": 3505256,
       "challenger": 1283878,
       "player": 1009439,
-      "alien": 846684
+      "alien": 846684,
+      "no_way": 718334
     }
   },
   {
@@ -1074,7 +1150,8 @@
       "intermediate": 3900000,
       "challenger": 2148564,
       "player": 1788125,
-      "alien": 1488845
+      "alien": 1488845,
+      "no_way": 0
     }
   },
   {
@@ -1088,7 +1165,8 @@
       "intermediate": 40026666,
       "challenger": 40026666,
       "player": 40026666,
-      "alien": 40026666
+      "alien": 40026666,
+      "no_way": 0
     }
   },
   {
@@ -1102,7 +1180,8 @@
       "intermediate": 0,
       "challenger": 0,
       "player": 489415,
-      "alien": 462123
+      "alien": 462123,
+      "no_way": 441661
     }
   }
 ]
