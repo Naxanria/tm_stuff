@@ -116,7 +116,7 @@
       "challenger": 65257,
       "player": 63850,
       "alien": 62298,
-      "no_way": 60496
+      "no_way": 59998
     }
   },
   {
@@ -713,7 +713,7 @@
       "grade": "Legend",
       "noob": 652253,
       "intermediate": 417569,
-      "challenger": 288021,
+      "challenger": 288210,
       "player": 266253,
       "alien": 247850,
       "no_way": 237518
