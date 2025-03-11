@@ -60,6 +60,21 @@
     }
   },
   {
+    "uid": "Air9gyToeJCuNain5_PumrY9I5g",
+    "tmId": 229959,
+    "name": "Satis",
+    "author": "Anonyme_Herotax",
+    "pvm": {
+      "grade": "E",
+      "noob": 216836,
+      "intermediate": 181354,
+      "challenger": 165534,
+      "player": 152212,
+      "alien": 144735,
+      "no_way": 0
+    }
+  },
+  {
     "uid": "GdTgkmgJFrb3tVeMJbgzMKNeDc7",
     "tmId": 214814,
     "name": "Onyxtemple",
@@ -71,7 +86,7 @@
       "challenger": 243127,
       "player": 240687,
       "alien": 231545,
-      "no_way": 216887
+      "no_way": 117276
     }
   },
   {
@@ -270,21 +285,6 @@
     }
   },
   {
-    "uid": "dOV1eYdr99UFPOIpIGOW_ZuujD5",
-    "tmId": 224823,
-    "name": "Pylos",
-    "author": "SirTalyon",
-    "pvm": {
-      "grade": "C",
-      "noob": 585341,
-      "intermediate": 440540,
-      "challenger": 386434,
-      "player": 363844,
-      "alien": 348543,
-      "no_way": 333321
-    }
-  },
-  {
     "uid": "xgJ7ssXxzrFzN1TvtmU9eGhT8Qf",
     "tmId": 19327,
     "name": "Chantier",
@@ -341,7 +341,7 @@
       "challenger": 254234,
       "player": 238555,
       "alien": 222456,
-      "no_way": 214565
+      "no_way": 0
     }
   },
   {
@@ -372,6 +372,21 @@
       "player": 324102,
       "alien": 309850,
       "no_way": 299645
+    }
+  },
+  {
+    "uid": "dOV1eYdr99UFPOIpIGOW_ZuujD5",
+    "tmId": 224823,
+    "name": "Pylos",
+    "author": "SirTalyon",
+    "pvm": {
+      "grade": "B",
+      "noob": 585341,
+      "intermediate": 440540,
+      "challenger": 386434,
+      "player": 363844,
+      "alien": 348543,
+      "no_way": 0
     }
   },
   {
@@ -771,7 +786,7 @@
     "author": "MisterPlus_YT",
     "pvm": {
       "grade": "Legend",
-      "noob": 1356254,
+      "noob": 1596254,
       "intermediate": 984687,
       "challenger": 863250,
       "player": 824564,
