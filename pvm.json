@@ -60,21 +60,6 @@
     }
   },
   {
-    "uid": "Air9gyToeJCuNain5_PumrY9I5g",
-    "tmId": 229959,
-    "name": "Satis",
-    "author": "Anonyme_Herotax",
-    "pvm": {
-      "grade": "E",
-      "noob": 216836,
-      "intermediate": 181354,
-      "challenger": 165534,
-      "player": 152212,
-      "alien": 144735,
-      "no_way": 0
-    }
-  },
-  {
     "uid": "GdTgkmgJFrb3tVeMJbgzMKNeDc7",
     "tmId": 214814,
     "name": "Onyxtemple",
@@ -135,21 +120,6 @@
     }
   },
   {
-    "uid": "Cd2ltIJLLhMPSoY3o0ZDlfFWZm1",
-    "tmId": 218543,
-    "name": "Calico Secrets",
-    "author": "Onyx_be01",
-    "pvm": {
-      "grade": "D",
-      "noob": 303244,
-      "intermediate": 247457,
-      "challenger": 186813,
-      "player": 181453,
-      "alien": 176133,
-      "no_way": 168223
-    }
-  },
-  {
     "uid": "WeApU1xrz4469h9TDqe1B8y6c77",
     "tmId": 215453,
     "name": "Factorange",
@@ -192,21 +162,6 @@
       "player": 344863,
       "alien": 325971,
       "no_way": 0
-    }
-  },
-  {
-    "uid": "w7dmrwydNQn0wf6WSVR1uYagJaj",
-    "tmId": 195488,
-    "name": "Fugus",
-    "author": "Anonyme_Herotax",
-    "pvm": {
-      "grade": "C",
-      "noob": 105748,
-      "intermediate": 68979,
-      "challenger": 65194,
-      "player": 63974,
-      "alien": 60559,
-      "no_way": 58302
     }
   },
   {
@@ -297,6 +252,21 @@
       "player": 311555,
       "alien": 299153,
       "no_way": 289433
+    }
+  },
+  {
+    "uid": "Air9gyToeJCuNain5_PumrY9I5g",
+    "tmId": 229959,
+    "name": "Satis",
+    "author": "Anonyme_Herotax",
+    "pvm": {
+      "grade": "B",
+      "noob": 216836,
+      "intermediate": 181354,
+      "challenger": 165534,
+      "player": 152212,
+      "alien": 144735,
+      "no_way": 0
     }
   },
   {
@@ -1182,6 +1152,21 @@
       "player": 1788125,
       "alien": 1488845,
       "no_way": 0
+    }
+  },
+  {
+    "uid": "w7dmrwydNQn0wf6WSVR1uYagJaj",
+    "tmId": 195488,
+    "name": "Fugus",
+    "author": "Anonyme_Herotax",
+    "pvm": {
+      "grade": "C",
+      "noob": 0,
+      "intermediate": 0,
+      "challenger": 0,
+      "player": 63974,
+      "alien": 60559,
+      "no_way": 58302
     }
   },
   {
