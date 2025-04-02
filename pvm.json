@@ -120,6 +120,21 @@
     }
   },
   {
+    "uid": "Cd2ltIJLLhMPSoY3o0ZDlfFWZm1",
+    "tmId": 218543,
+    "name": "Calico Secrets",
+    "author": "Onyx_be01",
+    "pvm": {
+      "grade": "D",
+      "noob": 303244,
+      "intermediate": 247457,
+      "challenger": 186813,
+      "player": 181453,
+      "alien": 176133,
+      "no_way": 168223
+    }
+  },
+  {
     "uid": "WeApU1xrz4469h9TDqe1B8y6c77",
     "tmId": 215453,
     "name": "Factorange",
