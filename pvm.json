@@ -90,6 +90,21 @@
     }
   },
   {
+    "uid": "dd1dHEmoW4r9PTQY4FxRo7Cci4c",
+    "tmId": 229757,
+    "name": "Ruinage",
+    "author": "Naxanria",
+    "pvm": {
+      "grade": "D",
+      "noob": 75559,
+      "intermediate": 67366,
+      "challenger": 61855,
+      "player": 54223,
+      "alien": 51452,
+      "no_way": 0
+    }
+  },
+  {
     "uid": "LoZRvfX6aNLKd7a7sLmsGSYkApb",
     "tmId": 116473,
     "name": "Island Escape",
