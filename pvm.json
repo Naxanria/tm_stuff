@@ -270,6 +270,21 @@
     }
   },
   {
+    "uid": "_D4yobK_oAJ8ja0vo96fBAyCpNf",
+    "tmId": 238534,
+    "name": "Water Industry",
+    "author": "YoG",
+    "pvm": {
+      "grade": "C",
+      "noob": 378742,
+      "intermediate": 328545,
+      "challenger": 295441,
+      "player": 281214,
+      "alien": 269884,
+      "no_way": 0
+    }
+  },
+  {
     "uid": "bzNEybi6ElNwlvWvKfKpMunzoYk",
     "tmId": 203740,
     "name": "Xaltrion 32C",
@@ -465,21 +480,6 @@
     }
   },
   {
-    "uid": "Jeyd4IZgvGwIb_i_cvmgG47MqMf",
-    "tmId": 72155,
-    "name": "Octahedron City",
-    "author": "Mokuura",
-    "pvm": {
-      "grade": "A",
-      "noob": 385166,
-      "intermediate": 279336,
-      "challenger": 247564,
-      "player": 238555,
-      "alien": 222897,
-      "no_way": 213453
-    }
-  },
-  {
     "uid": "GLWTWYlpD35e8yE5SaJkis_vcs3",
     "tmId": 153644,
     "name": "Treasure Island",
@@ -657,6 +657,21 @@
       "player": 208987,
       "alien": 193088,
       "no_way": 182954
+    }
+  },
+  {
+    "uid": "Jeyd4IZgvGwIb_i_cvmgG47MqMf",
+    "tmId": 72155,
+    "name": "Octahedron City",
+    "author": "Mokuura",
+    "pvm": {
+      "grade": "SS",
+      "noob": 445166,
+      "intermediate": 289336,
+      "challenger": 247564,
+      "player": 238555,
+      "alien": 222897,
+      "no_way": 213453
     }
   },
   {
