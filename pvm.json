@@ -555,6 +555,21 @@
     }
   },
   {
+    "uid": "RZze0RF01SQ1eFpVmmrpXW37RNm",
+    "tmId": 240682,
+    "name": "Atalenty",
+    "author": "MisterPlus_YT",
+    "pvm": {
+      "grade": "S",
+      "noob": 529032,
+      "intermediate": 415141,
+      "challenger": 373450,
+      "player": 349624,
+      "alien": 338561,
+      "no_way": 0
+    }
+  },
+  {
     "uid": "jzxxpWT3RYeqRhGe9W0LX0M9E0c",
     "tmId": 65856,
     "name": "Turbulent",
