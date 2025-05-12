@@ -270,17 +270,17 @@
     }
   },
   {
-    "uid": "_D4yobK_oAJ8ja0vo96fBAyCpNf",
-    "tmId": 238534,
-    "name": "Water Industry",
-    "author": "YoG",
+    "uid": "FP2Hjj28CEeQKqt8DgEQFZCT5Q9",
+    "tmId": 243127,
+    "name": "Hiking\nOf The Hill",
+    "author": "Onyx_be01",
     "pvm": {
       "grade": "C",
-      "noob": 378742,
-      "intermediate": 328545,
-      "challenger": 295441,
-      "player": 281214,
-      "alien": 269884,
+      "noob": 374254,
+      "intermediate": 267524,
+      "challenger": 243566,
+      "player": 224524,
+      "alien": 215730,
       "no_way": 0
     }
   },
@@ -387,6 +387,21 @@
       "player": 241782,
       "alien": 220010,
       "no_way": 209256
+    }
+  },
+  {
+    "uid": "_D4yobK_oAJ8ja0vo96fBAyCpNf",
+    "tmId": 238534,
+    "name": "Water Industry",
+    "author": "YoG",
+    "pvm": {
+      "grade": "B",
+      "noob": 378742,
+      "intermediate": 328545,
+      "challenger": 295441,
+      "player": 281214,
+      "alien": 269884,
+      "no_way": 0
     }
   },
   {
@@ -565,7 +580,7 @@
       "intermediate": 415141,
       "challenger": 373450,
       "player": 349624,
-      "alien": 338561,
+      "alien": 329561,
       "no_way": 0
     }
   },
