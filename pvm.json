@@ -11,7 +11,7 @@
       "challenger": 43153,
       "player": 42453,
       "alien": 39525,
-      "no_way": 0
+      "alien_plus": 38081
     }
   },
   {
@@ -26,7 +26,7 @@
       "challenger": 83977,
       "player": 83177,
       "alien": 79874,
-      "no_way": 0
+      "alien_plus": 77485
     }
   },
   {
@@ -41,7 +41,7 @@
       "challenger": 118751,
       "player": 116651,
       "alien": 109652,
-      "no_way": 0
+      "alien_plus": 107712
     }
   },
   {
@@ -56,7 +56,7 @@
       "challenger": 131574,
       "player": 129574,
       "alien": 121789,
-      "no_way": 0
+      "alien_plus": 119031
     }
   },
   {
@@ -71,7 +71,7 @@
       "challenger": 209457,
       "player": 204541,
       "alien": 197348,
-      "no_way": 0
+      "alien_plus": 190852
     }
   },
   {
@@ -86,7 +86,7 @@
       "challenger": 297993,
       "player": 285158,
       "alien": 269688,
-      "no_way": 0
+      "alien_plus": 263117
     }
   },
   {
@@ -101,7 +101,7 @@
       "challenger": 57860,
       "player": 54223,
       "alien": 51452,
-      "no_way": 0
+      "alien_plus": 49966
     }
   },
   {
@@ -116,7 +116,7 @@
       "challenger": 62844,
       "player": 62190,
       "alien": 57832,
-      "no_way": 0
+      "alien_plus": 56335
     }
   },
   {
@@ -131,7 +131,7 @@
       "challenger": 65257,
       "player": 63850,
       "alien": 62298,
-      "no_way": 0
+      "alien_plus": 61168
     }
   },
   {
@@ -146,7 +146,7 @@
       "challenger": 186813,
       "player": 181453,
       "alien": 176133,
-      "no_way": 0
+      "alien_plus": 172287
     }
   },
   {
@@ -161,7 +161,7 @@
       "challenger": 243127,
       "player": 240687,
       "alien": 231545,
-      "no_way": 0
+      "alien_plus": 218245
     }
   },
   {
@@ -176,7 +176,7 @@
       "challenger": 298483,
       "player": 291483,
       "alien": 279057,
-      "no_way": 0
+      "alien_plus": 275734
     }
   },
   {
@@ -191,7 +191,7 @@
       "challenger": 65194,
       "player": 344863,
       "alien": 325971,
-      "no_way": 0
+      "alien_plus": 316861
     }
   },
   {
@@ -205,8 +205,8 @@
       "intermediate": 140454,
       "challenger": 121198,
       "player": 115564,
-      "alien": 107521,
-      "no_way": 0
+      "alien": 106521,
+      "alien_plus": 101251
     }
   },
   {
@@ -221,7 +221,7 @@
       "challenger": 158564,
       "player": 152452,
       "alien": 145758,
-      "no_way": 0
+      "alien_plus": 142893
     }
   },
   {
@@ -236,7 +236,7 @@
       "challenger": 178853,
       "player": 173496,
       "alien": 160869,
-      "no_way": 0
+      "alien_plus": 159784
     }
   },
   {
@@ -251,7 +251,7 @@
       "challenger": 217354,
       "player": 206784,
       "alien": 195880,
-      "no_way": 0
+      "alien_plus": 191555
     }
   },
   {
@@ -266,7 +266,7 @@
       "challenger": 243566,
       "player": 224524,
       "alien": 215730,
-      "no_way": 0
+      "alien_plus": 210515
     }
   },
   {
@@ -281,7 +281,7 @@
       "challenger": 360452,
       "player": 0,
       "alien": 0,
-      "no_way": 0
+      "alien_plus": 0
     }
   },
   {
@@ -296,7 +296,7 @@
       "challenger": 180248,
       "player": 172456,
       "alien": 164675,
-      "no_way": 0
+      "alien_plus": 162574
     }
   },
   {
@@ -311,7 +311,7 @@
       "challenger": 284142,
       "player": 241782,
       "alien": 220010,
-      "no_way": 0
+      "alien_plus": 214866
     }
   },
   {
@@ -326,7 +326,7 @@
       "challenger": 302241,
       "player": 275741,
       "alien": 259246,
-      "no_way": 0
+      "alien_plus": 0
     }
   },
   {
@@ -341,7 +341,7 @@
       "challenger": 291562,
       "player": 277452,
       "alien": 262844,
-      "no_way": 0
+      "alien_plus": 260911
     }
   },
   {
@@ -356,7 +356,7 @@
       "challenger": 323775,
       "player": 311555,
       "alien": 299153,
-      "no_way": 0
+      "alien_plus": 294831
     }
   },
   {
@@ -371,7 +371,7 @@
       "challenger": 338451,
       "player": 324102,
       "alien": 309850,
-      "no_way": 0
+      "alien_plus": 305004
     }
   },
   {
@@ -386,7 +386,7 @@
       "challenger": 124354,
       "player": 122671,
       "alien": 118945,
-      "no_way": 0
+      "alien_plus": 116676
     }
   },
   {
@@ -401,7 +401,7 @@
       "challenger": 175003,
       "player": 166523,
       "alien": 156785,
-      "no_way": 0
+      "alien_plus": 154741
     }
   },
   {
@@ -415,8 +415,8 @@
       "intermediate": 265425,
       "challenger": 221841,
       "player": 208841,
-      "alien": 199898,
-      "no_way": 0
+      "alien": 200898,
+      "alien_plus": 198492
     }
   },
   {
@@ -431,7 +431,7 @@
       "challenger": 254234,
       "player": 238555,
       "alien": 222456,
-      "no_way": 0
+      "alien_plus": 216313
     }
   },
   {
@@ -446,7 +446,7 @@
       "challenger": 287117,
       "player": 263456,
       "alien": 251505,
-      "no_way": 0
+      "alien_plus": 0
     }
   },
   {
@@ -461,7 +461,7 @@
       "challenger": 295441,
       "player": 281214,
       "alien": 269884,
-      "no_way": 0
+      "alien_plus": 0
     }
   },
   {
@@ -476,7 +476,7 @@
       "challenger": 386434,
       "player": 363844,
       "alien": 348543,
-      "no_way": 0
+      "alien_plus": 337122
     }
   },
   {
@@ -491,7 +491,7 @@
       "challenger": 165534,
       "player": 152212,
       "alien": 144735,
-      "no_way": 0
+      "alien_plus": 140663
     }
   },
   {
@@ -506,7 +506,7 @@
       "challenger": 171324,
       "player": 163285,
       "alien": 155852,
-      "no_way": 0
+      "alien_plus": 152047
     }
   },
   {
@@ -521,7 +521,7 @@
       "challenger": 216571,
       "player": 204541,
       "alien": 195545,
-      "no_way": 0
+      "alien_plus": 190876
     }
   },
   {
@@ -536,7 +536,7 @@
       "challenger": 235151,
       "player": 222921,
       "alien": 214412,
-      "no_way": 0
+      "alien_plus": 207543
     }
   },
   {
@@ -550,8 +550,8 @@
       "intermediate": 285125,
       "challenger": 241615,
       "player": 231125,
-      "alien": 219546,
-      "no_way": 0
+      "alien": 216546,
+      "alien_plus": 206690
     }
   },
   {
@@ -566,7 +566,7 @@
       "challenger": 248204,
       "player": 238546,
       "alien": 227254,
-      "no_way": 0
+      "alien_plus": 223884
     }
   },
   {
@@ -581,7 +581,7 @@
       "challenger": 489512,
       "player": 472453,
       "alien": 446977,
-      "no_way": 0
+      "alien_plus": 439666
     }
   },
   {
@@ -596,7 +596,7 @@
       "challenger": 142516,
       "player": 135846,
       "alien": 127890,
-      "no_way": 0
+      "alien_plus": 126112
     }
   },
   {
@@ -611,7 +611,7 @@
       "challenger": 233422,
       "player": 224555,
       "alien": 215453,
-      "no_way": 0
+      "alien_plus": 210692
     }
   },
   {
@@ -625,8 +625,8 @@
       "intermediate": 349521,
       "challenger": 316321,
       "player": 301894,
-      "alien": 290197,
-      "no_way": 0
+      "alien": 287197,
+      "alien_plus": 278747
     }
   },
   {
@@ -641,7 +641,7 @@
       "challenger": 373450,
       "player": 344624,
       "alien": 329561,
-      "no_way": 0
+      "alien_plus": 0
     }
   },
   {
@@ -656,7 +656,7 @@
       "challenger": 382284,
       "player": 369415,
       "alien": 355886,
-      "no_way": 0
+      "alien_plus": 346731
     }
   },
   {
@@ -671,7 +671,7 @@
       "challenger": 431561,
       "player": 418415,
       "alien": 391005,
-      "no_way": 0
+      "alien_plus": 379625
     }
   },
   {
@@ -686,7 +686,7 @@
       "challenger": 461294,
       "player": 435294,
       "alien": 399236,
-      "no_way": 0
+      "alien_plus": 376527
     }
   },
   {
@@ -701,7 +701,7 @@
       "challenger": 482524,
       "player": 468524,
       "alien": 444524,
-      "no_way": 0
+      "alien_plus": 438354
     }
   },
   {
@@ -716,7 +716,7 @@
       "challenger": 129561,
       "player": 122178,
       "alien": 119109,
-      "no_way": 0
+      "alien_plus": 116785
     }
   },
   {
@@ -731,7 +731,7 @@
       "challenger": 175158,
       "player": 164221,
       "alien": 154254,
-      "no_way": 0
+      "alien_plus": 0
     }
   },
   {
@@ -746,7 +746,7 @@
       "challenger": 219513,
       "player": 208987,
       "alien": 193088,
-      "no_way": 0
+      "alien_plus": 187241
     }
   },
   {
@@ -761,7 +761,7 @@
       "challenger": 247564,
       "player": 238555,
       "alien": 222897,
-      "no_way": 0
+      "alien_plus": 214863
     }
   },
   {
@@ -776,7 +776,7 @@
       "challenger": 282321,
       "player": 269978,
       "alien": 256897,
-      "no_way": 0
+      "alien_plus": 251539
     }
   },
   {
@@ -791,7 +791,7 @@
       "challenger": 482873,
       "player": 468123,
       "alien": 438325,
-      "no_way": 0
+      "alien_plus": 434798
     }
   },
   {
@@ -806,7 +806,7 @@
       "challenger": 813542,
       "player": 765548,
       "alien": 711949,
-      "no_way": 0
+      "alien_plus": 702841
     }
   },
   {
@@ -820,8 +820,8 @@
       "intermediate": 65999,
       "challenger": 64863,
       "player": 63963,
-      "alien": 60452,
-      "no_way": 0
+      "alien": 61452,
+      "alien_plus": 59987
     }
   },
   {
@@ -836,7 +836,7 @@
       "challenger": 218324,
       "player": 211874,
       "alien": 201954,
-      "no_way": 0
+      "alien_plus": 198468
     }
   },
   {
@@ -851,7 +851,7 @@
       "challenger": 288210,
       "player": 266253,
       "alien": 247850,
-      "no_way": 0
+      "alien_plus": 241763
     }
   },
   {
@@ -866,7 +866,7 @@
       "challenger": 282354,
       "player": 266325,
       "alien": 255105,
-      "no_way": 0
+      "alien_plus": 248376
     }
   },
   {
@@ -881,7 +881,7 @@
       "challenger": 394564,
       "player": 379652,
       "alien": 368463,
-      "no_way": 0
+      "alien_plus": 296882
     }
   },
   {
@@ -896,7 +896,7 @@
       "challenger": 423454,
       "player": 405524,
       "alien": 387654,
-      "no_way": 0
+      "alien_plus": 385771
     }
   },
   {
@@ -911,7 +911,7 @@
       "challenger": 863250,
       "player": 824564,
       "alien": 795651,
-      "no_way": 0
+      "alien_plus": 0
     }
   },
   {
@@ -926,7 +926,7 @@
       "challenger": 194671,
       "player": 185671,
       "alien": 175496,
-      "no_way": 0
+      "alien_plus": 0
     }
   },
   {
@@ -941,7 +941,7 @@
       "challenger": 268354,
       "player": 252123,
       "alien": 242665,
-      "no_way": 0
+      "alien_plus": 238696
     }
   },
   {
@@ -956,7 +956,7 @@
       "challenger": 397789,
       "player": 378789,
       "alien": 359699,
-      "no_way": 0
+      "alien_plus": 354541
     }
   },
   {
@@ -971,7 +971,7 @@
       "challenger": 361564,
       "player": 341874,
       "alien": 329982,
-      "no_way": 0
+      "alien_plus": 324873
     }
   },
   {
@@ -986,7 +986,7 @@
       "challenger": 427321,
       "player": 411458,
       "alien": 395158,
-      "no_way": 0
+      "alien_plus": 385452
     }
   },
   {
@@ -1001,7 +1001,7 @@
       "challenger": 561564,
       "player": 538654,
       "alien": 523784,
-      "no_way": 0
+      "alien_plus": 515775
     }
   },
   {
@@ -1015,8 +1015,8 @@
       "intermediate": 895253,
       "challenger": 691564,
       "player": 655253,
-      "alien": 638235,
-      "no_way": 0
+      "alien": 641235,
+      "alien_plus": 636474
     }
   },
   {
@@ -1031,7 +1031,7 @@
       "challenger": 298354,
       "player": 283598,
       "alien": 269723,
-      "no_way": 0
+      "alien_plus": 261715
     }
   },
   {
@@ -1046,7 +1046,7 @@
       "challenger": 405453,
       "player": 389835,
       "alien": 374354,
-      "no_way": 0
+      "alien_plus": 370558
     }
   },
   {
@@ -1061,7 +1061,7 @@
       "challenger": 464324,
       "player": 443459,
       "alien": 407127,
-      "no_way": 0
+      "alien_plus": 398944
     }
   },
   {
@@ -1076,7 +1076,7 @@
       "challenger": 502245,
       "player": 0,
       "alien": 0,
-      "no_way": 0
+      "alien_plus": 0
     }
   },
   {
@@ -1091,7 +1091,7 @@
       "challenger": 607425,
       "player": 617158,
       "alien": 561846,
-      "no_way": 0
+      "alien_plus": 556354
     }
   },
   {
@@ -1106,7 +1106,7 @@
       "challenger": 1512812,
       "player": 1480812,
       "alien": 1439458,
-      "no_way": 0
+      "alien_plus": 1315135
     }
   },
   {
@@ -1121,7 +1121,7 @@
       "challenger": 371575,
       "player": 355584,
       "alien": 338231,
-      "no_way": 0
+      "alien_plus": 331534
     }
   },
   {
@@ -1136,7 +1136,7 @@
       "challenger": 421546,
       "player": 398594,
       "alien": 378561,
-      "no_way": 0
+      "alien_plus": 375189
     }
   },
   {
@@ -1151,7 +1151,7 @@
       "challenger": 814576,
       "player": 776119,
       "alien": 719090,
-      "no_way": 0
+      "alien_plus": 677364
     }
   },
   {
@@ -1166,7 +1166,7 @@
       "challenger": 1406568,
       "player": 1374026,
       "alien": 995165,
-      "no_way": 0
+      "alien_plus": 891254
     }
   },
   {
@@ -1181,7 +1181,7 @@
       "challenger": 1413876,
       "player": 1056258,
       "alien": 959489,
-      "no_way": 0
+      "alien_plus": 0
     }
   },
   {
@@ -1196,7 +1196,7 @@
       "challenger": 1390733,
       "player": 1340587,
       "alien": 1199985,
-      "no_way": 0
+      "alien_plus": 1108534
     }
   },
   {
@@ -1211,7 +1211,7 @@
       "challenger": 2400354,
       "player": 2280000,
       "alien": 1860000,
-      "no_way": 0
+      "alien_plus": 1852874
     }
   },
   {
@@ -1226,7 +1226,7 @@
       "challenger": 261357,
       "player": 255258,
       "alien": 240218,
-      "no_way": 0
+      "alien_plus": 233687
     }
   },
   {
@@ -1241,7 +1241,7 @@
       "challenger": 785635,
       "player": 763125,
       "alien": 692485,
-      "no_way": 0
+      "alien_plus": 673566
     }
   },
   {
@@ -1256,7 +1256,7 @@
       "challenger": 1593459,
       "player": 1367456,
       "alien": 1045256,
-      "no_way": 0
+      "alien_plus": 902645
     }
   },
   {
@@ -1271,7 +1271,7 @@
       "challenger": 1283878,
       "player": 1009439,
       "alien": 846684,
-      "no_way": 0
+      "alien_plus": 785454
     }
   },
   {
@@ -1286,7 +1286,7 @@
       "challenger": 2148564,
       "player": 1788125,
       "alien": 1488845,
-      "no_way": 0
+      "alien_plus": 1478225
     }
   },
   {
@@ -1301,7 +1301,7 @@
       "challenger": 0,
       "player": 63974,
       "alien": 60559,
-      "no_way": -1
+      "alien_plus": 59098
     }
   },
   {
@@ -1316,7 +1316,7 @@
       "challenger": 0,
       "player": 489415,
       "alien": 462123,
-      "no_way": -1
+      "alien_plus": 448821
     }
   }
 ]
