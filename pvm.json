@@ -180,18 +180,18 @@
     }
   },
   {
-    "uid": "bsGPiZm5EfmK0bp_OBNIE7UUaki",
-    "tmId": 230081,
+    "uid": "w7dmrwydNQn0wf6WSVR1uYagJaj",
+    "tmId": 195488,
     "name": "Fugus",
-    "author": "Raikuz",
+    "author": "Anonyme_Herotax",
     "pvm": {
       "grade": "C",
       "noob": 105748,
       "intermediate": 68979,
       "challenger": 65194,
-      "player": 344863,
-      "alien": 325971,
-      "alien_plus": 316861
+      "player": 63974,
+      "alien": 60559,
+      "alien_plus": 59098
     }
   },
   {
@@ -279,9 +279,9 @@
       "noob": 455415,
       "intermediate": 403940,
       "challenger": 360452,
-      "player": 0,
-      "alien": 0,
-      "alien_plus": 0
+      "player": 344863,
+      "alien": 325971,
+      "alien_plus": 316861
     }
   },
   {
@@ -525,33 +525,33 @@
     }
   },
   {
-    "uid": "CqTFOkX8gvqP5uetkWirilO2YJ5",
-    "tmId": 213934,
+    "uid": "gzzVhgA9TBx6hWbk4LYwI9zbtK3",
+    "tmId": 21634,
     "name": "Azura",
-    "author": "Onyx_be01",
+    "author": "Yannex",
     "pvm": {
       "grade": "S",
       "noob": 357362,
       "intermediate": 265399,
       "challenger": 235151,
-      "player": 222921,
-      "alien": 214412,
-      "alien_plus": 207543
+      "player": 231125,
+      "alien": 216546,
+      "alien_plus": 206690
     }
   },
   {
-    "uid": "gzzVhgA9TBx6hWbk4LYwI9zbtK3",
-    "tmId": 21634,
+    "uid": "CqTFOkX8gvqP5uetkWirilO2YJ5",
+    "tmId": 213934,
     "name": "La Berra",
-    "author": "Yannex",
+    "author": "Onyx_be01",
     "pvm": {
       "grade": "S",
       "noob": 415125,
       "intermediate": 285125,
       "challenger": 241615,
-      "player": 231125,
-      "alien": 216546,
-      "alien_plus": 206690
+      "player": 222921,
+      "alien": 214412,
+      "alien_plus": 207543
     }
   },
   {
@@ -954,9 +954,9 @@
       "noob": 695489,
       "intermediate": 465489,
       "challenger": 397789,
-      "player": 378789,
-      "alien": 359699,
-      "alien_plus": 354541
+      "player": 341874,
+      "alien": 329982,
+      "alien_plus": 324873
     }
   },
   {
@@ -969,9 +969,9 @@
       "noob": 938874,
       "intermediate": 625354,
       "challenger": 361564,
-      "player": 341874,
-      "alien": 329982,
-      "alien_plus": 324873
+      "player": 378789,
+      "alien": 359699,
+      "alien_plus": 354541
     }
   },
   {
@@ -1065,8 +1065,8 @@
     }
   },
   {
-    "uid": "MkEUviHygKzVv_MVfFznI0Kf6xg",
-    "tmId": 177289,
+    "uid": "66QTibm8pQ9F0QPB537mtTRyaz2",
+    "tmId": 78381,
     "name": "Oblivion Novice",
     "author": "Qiraj",
     "pvm": {
@@ -1074,9 +1074,9 @@
       "noob": 1545000,
       "intermediate": 731258,
       "challenger": 502245,
-      "player": 0,
-      "alien": 0,
-      "alien_plus": 0
+      "player": 489415,
+      "alien": 462123,
+      "alien_plus": 448821
     }
   },
   {
@@ -1155,33 +1155,33 @@
     }
   },
   {
-    "uid": "hF7AWYxLwarrK9vXXm7uqqa4SJg",
-    "tmId": 180041,
+    "uid": "_5AnE4Yw_RseRHXWR5H5D5PomId",
+    "tmId": 26389,
     "name": "Flip It",
-    "author": "Qiraj",
+    "author": "Banano_TV",
     "pvm": {
       "grade": "Divine",
       "noob": 2805548,
       "intermediate": 1945256,
       "challenger": 1406568,
-      "player": 1374026,
-      "alien": 995165,
-      "alien_plus": 891254
+      "player": 1056258,
+      "alien": 959489,
+      "alien_plus": 0
     }
   },
   {
-    "uid": "_5AnE4Yw_RseRHXWR5H5D5PomId",
-    "tmId": 26389,
+    "uid": "hF7AWYxLwarrK9vXXm7uqqa4SJg",
+    "tmId": 180041,
     "name": "A NIGHT IN TOKYO",
-    "author": "Banano_TV",
+    "author": "Qiraj",
     "pvm": {
       "grade": "Divine",
       "noob": 2925258,
       "intermediate": 2145258,
       "challenger": 1413876,
-      "player": 1056258,
-      "alien": 959489,
-      "alien_plus": 0
+      "player": 1374026,
+      "alien": 995165,
+      "alien_plus": 891254
     }
   },
   {
@@ -1245,8 +1245,8 @@
     }
   },
   {
-    "uid": "oYpNoo4XdKtkkcWw_yXnbXzq559",
-    "tmId": 133539,
+    "uid": "n2_fEbEBP6o4486vMs0urUq7yL6",
+    "tmId": 73770,
     "name": "Falling Turtles (CP)",
     "author": "Qiraj",
     "pvm": {
@@ -1254,14 +1254,14 @@
       "noob": 5269439,
       "intermediate": 3169439,
       "challenger": 1593459,
-      "player": 1367456,
-      "alien": 1045256,
-      "alien_plus": 902645
+      "player": 1009439,
+      "alien": 846684,
+      "alien_plus": 785454
     }
   },
   {
-    "uid": "n2_fEbEBP6o4486vMs0urUq7yL6",
-    "tmId": 73770,
+    "uid": "oYpNoo4XdKtkkcWw_yXnbXzq559",
+    "tmId": 133539,
     "name": "Quandary Pixel",
     "author": "Qiraj",
     "pvm": {
@@ -1269,9 +1269,9 @@
       "noob": 5387456,
       "intermediate": 3505256,
       "challenger": 1283878,
-      "player": 1009439,
-      "alien": 846684,
-      "alien_plus": 785454
+      "player": 1367456,
+      "alien": 1045256,
+      "alien_plus": 902645
     }
   },
   {
@@ -1287,36 +1287,6 @@
       "player": 1788125,
       "alien": 1488845,
       "alien_plus": 1478225
-    }
-  },
-  {
-    "uid": "w7dmrwydNQn0wf6WSVR1uYagJaj",
-    "tmId": 195488,
-    "name": "Fugus",
-    "author": "Anonyme_Herotax",
-    "pvm": {
-      "grade": "C",
-      "noob": 0,
-      "intermediate": 0,
-      "challenger": 0,
-      "player": 63974,
-      "alien": 60559,
-      "alien_plus": 59098
-    }
-  },
-  {
-    "uid": "66QTibm8pQ9F0QPB537mtTRyaz2",
-    "tmId": 78381,
-    "name": "Oblivion",
-    "author": "Qiraj",
-    "pvm": {
-      "grade": "Omniscient",
-      "noob": 0,
-      "intermediate": 0,
-      "challenger": 0,
-      "player": 489415,
-      "alien": 462123,
-      "alien_plus": 448821
     }
   }
 ]
