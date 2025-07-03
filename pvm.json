@@ -96,12 +96,12 @@
     "author": "Kann",
     "pvm": {
       "grade": "E",
-      "noob": 0,
-      "intermediate": 0,
-      "challenger": 0,
-      "player": 0,
-      "alien": 0,
-      "alien_plus": 0
+      "noob": 422435,
+      "intermediate": 349025,
+      "challenger": 307522,
+      "player": 295896,
+      "alien": 275982,
+      "alien_plus": 272485
     }
   },
   {
@@ -306,9 +306,9 @@
     "author": "Anonyme_Herotax",
     "pvm": {
       "grade": "B",
-      "noob": 77254,
-      "intermediate": 51312,
-      "challenger": 47524,
+      "noob": 107254,
+      "intermediate": 66312,
+      "challenger": 57524,
       "player": 54485,
       "alien": 51035,
       "alien_plus": 49102
@@ -1161,11 +1161,11 @@
     "author": "Feight",
     "pvm": {
       "grade": "Omniscient",
-      "noob": 0,
-      "intermediate": 0,
-      "challenger": 0,
-      "player": 0,
-      "alien": 0,
+      "noob": 123853,
+      "intermediate": 71587,
+      "challenger": 56135,
+      "player": 52954,
+      "alien": 49885,
       "alien_plus": 0
     }
   },
