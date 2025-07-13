@@ -105,48 +105,18 @@
     }
   },
   {
-    "uid": "dd1dHEmoW4r9PTQY4FxRo7Cci4c",
-    "tmId": 229757,
-    "name": "Ruinage",
-    "author": "Naxanria",
+    "uid": "V8_dhyOP38uU1OcZ2SSWZVxuxc4",
+    "tmId": 195471,
+    "name": "Kannicule",
+    "author": "Kann",
     "pvm": {
       "grade": "D",
-      "noob": 75559,
-      "intermediate": 62366,
-      "challenger": 57860,
-      "player": 54223,
-      "alien": 51452,
-      "alien_plus": 49966
-    }
-  },
-  {
-    "uid": "LoZRvfX6aNLKd7a7sLmsGSYkApb",
-    "tmId": 116473,
-    "name": "Island Escape",
-    "author": "Anonyme_Herotax",
-    "pvm": {
-      "grade": "D",
-      "noob": 82654,
-      "intermediate": 65851,
-      "challenger": 62844,
-      "player": 62190,
-      "alien": 57832,
-      "alien_plus": 56335
-    }
-  },
-  {
-    "uid": "c_yS7TKsuGaBwefasIO_8SGqQG4",
-    "tmId": 107335,
-    "name": "Walk In The Maze",
-    "author": "Anonyme_Herotax",
-    "pvm": {
-      "grade": "D",
-      "noob": 115485,
-      "intermediate": 72658,
-      "challenger": 65257,
-      "player": 63850,
-      "alien": 62298,
-      "alien_plus": 61168
+      "noob": 385365,
+      "intermediate": 315354,
+      "challenger": 298483,
+      "player": 291483,
+      "alien": 279057,
+      "alien_plus": 275734
     }
   },
   {
@@ -180,18 +150,48 @@
     }
   },
   {
-    "uid": "V8_dhyOP38uU1OcZ2SSWZVxuxc4",
-    "tmId": 195471,
-    "name": "Kannicule",
-    "author": "Kann",
+    "uid": "LoZRvfX6aNLKd7a7sLmsGSYkApb",
+    "tmId": 116473,
+    "name": "Island Escape",
+    "author": "Anonyme_Herotax",
     "pvm": {
       "grade": "D",
-      "noob": 385365,
-      "intermediate": 315354,
-      "challenger": 298483,
-      "player": 291483,
-      "alien": 279057,
-      "alien_plus": 275734
+      "noob": 82654,
+      "intermediate": 65851,
+      "challenger": 62844,
+      "player": 62190,
+      "alien": 57832,
+      "alien_plus": 56335
+    }
+  },
+  {
+    "uid": "dd1dHEmoW4r9PTQY4FxRo7Cci4c",
+    "tmId": 229757,
+    "name": "Ruinage",
+    "author": "Naxanria",
+    "pvm": {
+      "grade": "D",
+      "noob": 75559,
+      "intermediate": 62366,
+      "challenger": 57860,
+      "player": 54223,
+      "alien": 51452,
+      "alien_plus": 49966
+    }
+  },
+  {
+    "uid": "c_yS7TKsuGaBwefasIO_8SGqQG4",
+    "tmId": 107335,
+    "name": "Walk In The Maze",
+    "author": "Anonyme_Herotax",
+    "pvm": {
+      "grade": "D",
+      "noob": 115485,
+      "intermediate": 72658,
+      "challenger": 65257,
+      "player": 63850,
+      "alien": 62298,
+      "alien_plus": 61168
     }
   },
   {
@@ -300,81 +300,6 @@
     }
   },
   {
-    "uid": "KNMYykeYctJNBXvymY6Fl7rrIoh",
-    "tmId": 214649,
-    "name": "Pirate Bay",
-    "author": "Anonyme_Herotax",
-    "pvm": {
-      "grade": "B",
-      "noob": 107254,
-      "intermediate": 66312,
-      "challenger": 57524,
-      "player": 54485,
-      "alien": 51035,
-      "alien_plus": 49102
-    }
-  },
-  {
-    "uid": "HzpksxcZeuJ6cGDZlw55T_fldx5",
-    "tmId": 63913,
-    "name": "Ora 7",
-    "author": "ziyx",
-    "pvm": {
-      "grade": "B",
-      "noob": 275255,
-      "intermediate": 199426,
-      "challenger": 180248,
-      "player": 172456,
-      "alien": 164675,
-      "alien_plus": 162574
-    }
-  },
-  {
-    "uid": "KLkTsUq5GfWuUuxpMCuLJwItMdf",
-    "tmId": 209057,
-    "name": "Elder Wake",
-    "author": "Onyx_be01",
-    "pvm": {
-      "grade": "B",
-      "noob": 365236,
-      "intermediate": 298584,
-      "challenger": 284142,
-      "player": 241782,
-      "alien": 220010,
-      "alien_plus": 214866
-    }
-  },
-  {
-    "uid": "H_cARgAQvtac_G3E1zGM2lBlCq0",
-    "tmId": 243637,
-    "name": "Citadust",
-    "author": "Onyx_be01",
-    "pvm": {
-      "grade": "B",
-      "noob": 430251,
-      "intermediate": 327251,
-      "challenger": 302241,
-      "player": 275741,
-      "alien": 259246,
-      "alien_plus": 0
-    }
-  },
-  {
-    "uid": "5C5gM_OzIIBBJD4S8rZdV1Proz3",
-    "tmId": 204909,
-    "name": "Horizon\u0027s Edge  Sector A",
-    "author": "Qiraj",
-    "pvm": {
-      "grade": "B",
-      "noob": 430514,
-      "intermediate": 325254,
-      "challenger": 291562,
-      "player": 277452,
-      "alien": 262844,
-      "alien_plus": 260911
-    }
-  },
-  {
     "uid": "bzNEybi6ElNwlvWvKfKpMunzoYk",
     "tmId": 203740,
     "name": "Xaltrion 32C",
@@ -405,63 +330,108 @@
     }
   },
   {
-    "uid": "9nwmWO50wlcMebjXJmGsxtMy3_c",
-    "tmId": 134289,
-    "name": "Red Foret",
+    "uid": "5C5gM_OzIIBBJD4S8rZdV1Proz3",
+    "tmId": 204909,
+    "name": "Horizon\u0027s Edge  Sector A",
     "author": "Qiraj",
     "pvm": {
-      "grade": "A",
-      "noob": 81743,
-      "intermediate": 59298,
-      "challenger": 56874,
-      "player": 55832,
-      "alien": 54098,
-      "alien_plus": 52597
+      "grade": "B",
+      "noob": 430514,
+      "intermediate": 325254,
+      "challenger": 291562,
+      "player": 277452,
+      "alien": 262844,
+      "alien_plus": 260911
     }
   },
   {
-    "uid": "OSEsROO6DJoOtlYjTpyitd_Jsdj",
-    "tmId": 162359,
-    "name": "Archaeologia",
-    "author": "arckano61",
+    "uid": "KLkTsUq5GfWuUuxpMCuLJwItMdf",
+    "tmId": 209057,
+    "name": "Elder Wake",
+    "author": "Onyx_be01",
     "pvm": {
-      "grade": "A",
-      "noob": 170671,
-      "intermediate": 135658,
-      "challenger": 124354,
-      "player": 122671,
-      "alien": 118945,
-      "alien_plus": 116676
+      "grade": "B",
+      "noob": 365236,
+      "intermediate": 298584,
+      "challenger": 284142,
+      "player": 241782,
+      "alien": 220010,
+      "alien_plus": 214866
     }
   },
   {
-    "uid": "OWBVtrP1kzQm_DPNL4mkLA0W2Fh",
-    "tmId": 63916,
-    "name": "Obsidius",
+    "uid": "HzpksxcZeuJ6cGDZlw55T_fldx5",
+    "tmId": 63913,
+    "name": "Ora 7",
     "author": "ziyx",
     "pvm": {
-      "grade": "A",
-      "noob": 264564,
-      "intermediate": 204958,
-      "challenger": 171324,
-      "player": 163285,
-      "alien": 155852,
-      "alien_plus": 152047
+      "grade": "B",
+      "noob": 275255,
+      "intermediate": 199426,
+      "challenger": 180248,
+      "player": 172456,
+      "alien": 164675,
+      "alien_plus": 162574
     }
   },
   {
-    "uid": "xgJ7ssXxzrFzN1TvtmU9eGhT8Qf",
-    "tmId": 19327,
-    "name": "Chantier",
-    "author": "Sympthome",
+    "uid": "KNMYykeYctJNBXvymY6Fl7rrIoh",
+    "tmId": 214649,
+    "name": "Pirate Bay",
+    "author": "Anonyme_Herotax",
+    "pvm": {
+      "grade": "B",
+      "noob": 107254,
+      "intermediate": 66312,
+      "challenger": 57524,
+      "player": 54485,
+      "alien": 51035,
+      "alien_plus": 49102
+    }
+  },
+  {
+    "uid": "H_cARgAQvtac_G3E1zGM2lBlCq0",
+    "tmId": 243637,
+    "name": "Citadust",
+    "author": "Onyx_be01",
+    "pvm": {
+      "grade": "B",
+      "noob": 430251,
+      "intermediate": 327251,
+      "challenger": 302241,
+      "player": 275741,
+      "alien": 259246,
+      "alien_plus": 0
+    }
+  },
+  {
+    "uid": "iwbXsDvhgHfj_pnshAz4OME7NR4",
+    "tmId": 224823,
+    "name": "Pylos",
+    "author": "SirTalyon",
     "pvm": {
       "grade": "A",
-      "noob": 268542,
-      "intermediate": 181874,
-      "challenger": 175003,
-      "player": 166523,
-      "alien": 156785,
-      "alien_plus": 154741
+      "noob": 585341,
+      "intermediate": 440540,
+      "challenger": 386434,
+      "player": 363844,
+      "alien": 348543,
+      "alien_plus": 337122
+    }
+  },
+  {
+    "uid": "C8A15qIQfmsui3Kr0B2DACUFId4",
+    "tmId": 243649,
+    "name": "HAVANA",
+    "author": "Onyx_be01",
+    "pvm": {
+      "grade": "A",
+      "noob": 456567,
+      "intermediate": 322844,
+      "challenger": 287117,
+      "player": 263456,
+      "alien": 251505,
+      "alien_plus": 0
     }
   },
   {
@@ -495,33 +465,78 @@
     }
   },
   {
-    "uid": "C8A15qIQfmsui3Kr0B2DACUFId4",
-    "tmId": 243649,
-    "name": "HAVANA",
-    "author": "Onyx_be01",
+    "uid": "OWBVtrP1kzQm_DPNL4mkLA0W2Fh",
+    "tmId": 63916,
+    "name": "Obsidius",
+    "author": "ziyx",
     "pvm": {
       "grade": "A",
-      "noob": 456567,
-      "intermediate": 322844,
-      "challenger": 287117,
-      "player": 263456,
-      "alien": 251505,
-      "alien_plus": 0
+      "noob": 264564,
+      "intermediate": 204958,
+      "challenger": 171324,
+      "player": 163285,
+      "alien": 155852,
+      "alien_plus": 152047
     }
   },
   {
-    "uid": "iwbXsDvhgHfj_pnshAz4OME7NR4",
-    "tmId": 224823,
-    "name": "Pylos",
-    "author": "SirTalyon",
+    "uid": "OSEsROO6DJoOtlYjTpyitd_Jsdj",
+    "tmId": 162359,
+    "name": "Archaeologia",
+    "author": "arckano61",
     "pvm": {
       "grade": "A",
-      "noob": 585341,
-      "intermediate": 440540,
-      "challenger": 386434,
-      "player": 363844,
-      "alien": 348543,
-      "alien_plus": 337122
+      "noob": 170671,
+      "intermediate": 135658,
+      "challenger": 124354,
+      "player": 122671,
+      "alien": 118945,
+      "alien_plus": 116676
+    }
+  },
+  {
+    "uid": "9nwmWO50wlcMebjXJmGsxtMy3_c",
+    "tmId": 134289,
+    "name": "Red Foret",
+    "author": "Qiraj",
+    "pvm": {
+      "grade": "A",
+      "noob": 81743,
+      "intermediate": 59298,
+      "challenger": 56874,
+      "player": 55832,
+      "alien": 54098,
+      "alien_plus": 52597
+    }
+  },
+  {
+    "uid": "xgJ7ssXxzrFzN1TvtmU9eGhT8Qf",
+    "tmId": 19327,
+    "name": "Chantier",
+    "author": "Sympthome",
+    "pvm": {
+      "grade": "A",
+      "noob": 268542,
+      "intermediate": 181874,
+      "challenger": 175003,
+      "player": 166523,
+      "alien": 156785,
+      "alien_plus": 154741
+    }
+  },
+  {
+    "uid": "_D4yobK_oAJ8ja0vo96fBAyCpNf",
+    "tmId": 238534,
+    "name": "Water Industry",
+    "author": "YoG",
+    "pvm": {
+      "grade": "S",
+      "noob": 438742,
+      "intermediate": 328545,
+      "challenger": 295441,
+      "player": 281214,
+      "alien": 269884,
+      "alien_plus": 0
     }
   },
   {
@@ -600,21 +615,6 @@
     }
   },
   {
-    "uid": "_D4yobK_oAJ8ja0vo96fBAyCpNf",
-    "tmId": 238534,
-    "name": "Water Industry",
-    "author": "YoG",
-    "pvm": {
-      "grade": "S",
-      "noob": 438742,
-      "intermediate": 328545,
-      "challenger": 295441,
-      "player": 281214,
-      "alien": 269884,
-      "alien_plus": 0
-    }
-  },
-  {
     "uid": "M5LP4waTixck1dlja_H4iLgkYm4",
     "tmId": 190317,
     "name": "Crimson Oasis",
@@ -627,66 +627,6 @@
       "player": 472453,
       "alien": 446977,
       "alien_plus": 439666
-    }
-  },
-  {
-    "uid": "HsLqyQrjdcuKC9zihdbF6RDBTMc",
-    "tmId": 111558,
-    "name": "Freezing",
-    "author": "blackpulse",
-    "pvm": {
-      "grade": "SS",
-      "noob": 103623,
-      "intermediate": 65896,
-      "challenger": 63165,
-      "player": 61365,
-      "alien": 58493,
-      "alien_plus": 57689
-    }
-  },
-  {
-    "uid": "UZd90FPA2fMqfgjpi3tTDUIPcPa",
-    "tmId": 63908,
-    "name": "Scar",
-    "author": "Qiraj",
-    "pvm": {
-      "grade": "SS",
-      "noob": 388846,
-      "intermediate": 211846,
-      "challenger": 142516,
-      "player": 135846,
-      "alien": 127890,
-      "alien_plus": 126112
-    }
-  },
-  {
-    "uid": "thsEoe9kCQfGjNKINuKrpvmaiJ2",
-    "tmId": 20654,
-    "name": "KingSlayer",
-    "author": "ziyx",
-    "pvm": {
-      "grade": "SS",
-      "noob": 405258,
-      "intermediate": 272125,
-      "challenger": 233422,
-      "player": 224555,
-      "alien": 215453,
-      "alien_plus": 210692
-    }
-  },
-  {
-    "uid": "GLWTWYlpD35e8yE5SaJkis_vcs3",
-    "tmId": 153644,
-    "name": "Treasure Island",
-    "author": "ziyx",
-    "pvm": {
-      "grade": "SS",
-      "noob": 408125,
-      "intermediate": 265125,
-      "challenger": 248204,
-      "player": 238546,
-      "alien": 227254,
-      "alien_plus": 223884
     }
   },
   {
@@ -720,6 +660,21 @@
     }
   },
   {
+    "uid": "GLWTWYlpD35e8yE5SaJkis_vcs3",
+    "tmId": 153644,
+    "name": "Treasure Island",
+    "author": "ziyx",
+    "pvm": {
+      "grade": "SS",
+      "noob": 408125,
+      "intermediate": 265125,
+      "challenger": 248204,
+      "player": 238546,
+      "alien": 227254,
+      "alien_plus": 223884
+    }
+  },
+  {
     "uid": "svrxL6cDcNoGpsimFnqJLVYcqCk",
     "tmId": 210872,
     "name": "Cirrus",
@@ -732,6 +687,51 @@
       "player": 468524,
       "alien": 444524,
       "alien_plus": 438354
+    }
+  },
+  {
+    "uid": "UZd90FPA2fMqfgjpi3tTDUIPcPa",
+    "tmId": 63908,
+    "name": "Scar",
+    "author": "Qiraj",
+    "pvm": {
+      "grade": "SS",
+      "noob": 388846,
+      "intermediate": 211846,
+      "challenger": 142516,
+      "player": 135846,
+      "alien": 127890,
+      "alien_plus": 126112
+    }
+  },
+  {
+    "uid": "HsLqyQrjdcuKC9zihdbF6RDBTMc",
+    "tmId": 111558,
+    "name": "Freezing",
+    "author": "blackpulse",
+    "pvm": {
+      "grade": "SS",
+      "noob": 103623,
+      "intermediate": 65896,
+      "challenger": 63165,
+      "player": 61365,
+      "alien": 58493,
+      "alien_plus": 57689
+    }
+  },
+  {
+    "uid": "thsEoe9kCQfGjNKINuKrpvmaiJ2",
+    "tmId": 20654,
+    "name": "KingSlayer",
+    "author": "ziyx",
+    "pvm": {
+      "grade": "SS",
+      "noob": 405258,
+      "intermediate": 272125,
+      "challenger": 233422,
+      "player": 224555,
+      "alien": 215453,
+      "alien_plus": 210692
     }
   },
   {
@@ -840,78 +840,18 @@
     }
   },
   {
-    "uid": "mbGPHSBjbzxxtxKwanPAOmwt1Ii",
-    "tmId": 106104,
-    "name": "Castle of Heasto",
-    "author": "Heasto",
+    "uid": "mksduUowYoGz3FUADkxO5Q9tyA2",
+    "tmId": 42918,
+    "name": "Oriom",
+    "author": "fzztichta",
     "pvm": {
       "grade": "Astral",
-      "noob": 79963,
-      "intermediate": 65999,
-      "challenger": 64863,
-      "player": 63963,
-      "alien": 61452,
-      "alien_plus": 59987
-    }
-  },
-  {
-    "uid": "oxaMULjMsyCiU_Ete6uIKvDQJdg",
-    "tmId": 246325,
-    "name": "Aeromania",
-    "author": "MisterPlus_YT",
-    "pvm": {
-      "grade": "Astral",
-      "noob": 297201,
-      "intermediate": 191741,
-      "challenger": 175158,
-      "player": 164221,
-      "alien": 154254,
-      "alien_plus": 0
-    }
-  },
-  {
-    "uid": "cW_8NKNhaFs2nLUk0tWSziyvD5h",
-    "tmId": 19557,
-    "name": "Lost Temple",
-    "author": "ziyx",
-    "pvm": {
-      "grade": "Astral",
-      "noob": 415062,
-      "intermediate": 271587,
-      "challenger": 219513,
-      "player": 208987,
-      "alien": 193088,
-      "alien_plus": 187241
-    }
-  },
-  {
-    "uid": "Jeyd4IZgvGwIb_i_cvmgG47MqMf",
-    "tmId": 72155,
-    "name": "Octahedron City",
-    "author": "Mokuura",
-    "pvm": {
-      "grade": "Astral",
-      "noob": 445166,
-      "intermediate": 279336,
-      "challenger": 247564,
-      "player": 238555,
-      "alien": 222897,
-      "alien_plus": 214863
-    }
-  },
-  {
-    "uid": "Vg7zUgCAXaPHyWZRXOgjjxl9rXc",
-    "tmId": 21316,
-    "name": "Ancient Ruins",
-    "author": "Qiraj",
-    "pvm": {
-      "grade": "Astral",
-      "noob": 575125,
-      "intermediate": 439652,
-      "challenger": 282354,
-      "player": 266325,
-      "alien": 255105,
-      "alien_plus": 248376
+      "noob": 1753235,
+      "intermediate": 1065201,
+      "challenger": 813542,
+      "player": 765548,
+      "alien": 711949,
+      "alien_plus": 702841
     }
   },
   {
@@ -930,18 +870,78 @@
     }
   },
   {
-    "uid": "mksduUowYoGz3FUADkxO5Q9tyA2",
-    "tmId": 42918,
-    "name": "Oriom",
-    "author": "fzztichta",
+    "uid": "Vg7zUgCAXaPHyWZRXOgjjxl9rXc",
+    "tmId": 21316,
+    "name": "Ancient Ruins",
+    "author": "Qiraj",
     "pvm": {
       "grade": "Astral",
-      "noob": 1753235,
-      "intermediate": 1065201,
-      "challenger": 813542,
-      "player": 765548,
-      "alien": 711949,
-      "alien_plus": 702841
+      "noob": 575125,
+      "intermediate": 439652,
+      "challenger": 282354,
+      "player": 266325,
+      "alien": 255105,
+      "alien_plus": 248376
+    }
+  },
+  {
+    "uid": "Jeyd4IZgvGwIb_i_cvmgG47MqMf",
+    "tmId": 72155,
+    "name": "Octahedron City",
+    "author": "Mokuura",
+    "pvm": {
+      "grade": "Astral",
+      "noob": 445166,
+      "intermediate": 279336,
+      "challenger": 247564,
+      "player": 238555,
+      "alien": 222897,
+      "alien_plus": 214863
+    }
+  },
+  {
+    "uid": "oxaMULjMsyCiU_Ete6uIKvDQJdg",
+    "tmId": 246325,
+    "name": "Aeromania",
+    "author": "MisterPlus_YT",
+    "pvm": {
+      "grade": "Astral",
+      "noob": 297201,
+      "intermediate": 191741,
+      "challenger": 175158,
+      "player": 164221,
+      "alien": 154254,
+      "alien_plus": 0
+    }
+  },
+  {
+    "uid": "mbGPHSBjbzxxtxKwanPAOmwt1Ii",
+    "tmId": 106104,
+    "name": "Castle of Heasto",
+    "author": "Heasto",
+    "pvm": {
+      "grade": "Astral",
+      "noob": 79963,
+      "intermediate": 65999,
+      "challenger": 64863,
+      "player": 63963,
+      "alien": 61452,
+      "alien_plus": 59987
+    }
+  },
+  {
+    "uid": "cW_8NKNhaFs2nLUk0tWSziyvD5h",
+    "tmId": 19557,
+    "name": "Lost Temple",
+    "author": "ziyx",
+    "pvm": {
+      "grade": "Astral",
+      "noob": 415062,
+      "intermediate": 271587,
+      "challenger": 219513,
+      "player": 208987,
+      "alien": 193088,
+      "alien_plus": 187241
     }
   },
   {
@@ -1050,18 +1050,48 @@
     }
   },
   {
-    "uid": "j58DId3ynDkwXYvt4CGWK3eKOrm",
-    "tmId": 137324,
-    "name": "The Heavens",
-    "author": "ziyx",
+    "uid": "yykpIcRQQyRC4kqnWeyac5gDHr6",
+    "tmId": 54547,
+    "name": "Citadel",
+    "author": "Sympthome",
     "pvm": {
       "grade": "Abyssal",
-      "noob": 79315,
-      "intermediate": 51253,
-      "challenger": 47984,
-      "player": 46467,
-      "alien": 44844,
-      "alien_plus": 43391
+      "noob": 1735253,
+      "intermediate": 895253,
+      "challenger": 691564,
+      "player": 655253,
+      "alien": 641235,
+      "alien_plus": 636474
+    }
+  },
+  {
+    "uid": "d1I0RQQLjvUJLOmy9kiZDGX5E4e",
+    "tmId": 141492,
+    "name": "Mindor",
+    "author": "Yannex",
+    "pvm": {
+      "grade": "Abyssal",
+      "noob": 1378654,
+      "intermediate": 763784,
+      "challenger": 561564,
+      "player": 538654,
+      "alien": 523784,
+      "alien_plus": 515775
+    }
+  },
+  {
+    "uid": "F082FKYgeG0OO8XlUSzE5uaOgL0",
+    "tmId": 69974,
+    "name": "City 17",
+    "author": "Sympthome",
+    "pvm": {
+      "grade": "Abyssal",
+      "noob": 983235,
+      "intermediate": 625258,
+      "challenger": 427321,
+      "player": 411458,
+      "alien": 395158,
+      "alien_plus": 385452
     }
   },
   {
@@ -1095,6 +1125,21 @@
     }
   },
   {
+    "uid": "j58DId3ynDkwXYvt4CGWK3eKOrm",
+    "tmId": 137324,
+    "name": "The Heavens",
+    "author": "ziyx",
+    "pvm": {
+      "grade": "Abyssal",
+      "noob": 79315,
+      "intermediate": 51253,
+      "challenger": 47984,
+      "player": 46467,
+      "alien": 44844,
+      "alien_plus": 43391
+    }
+  },
+  {
     "uid": "KC3vt7_dzgeDjdccn6ANeOPPwJg",
     "tmId": 111933,
     "name": "Tower",
@@ -1107,141 +1152,6 @@
       "player": 341874,
       "alien": 329982,
       "alien_plus": 324873
-    }
-  },
-  {
-    "uid": "F082FKYgeG0OO8XlUSzE5uaOgL0",
-    "tmId": 69974,
-    "name": "City 17",
-    "author": "Sympthome",
-    "pvm": {
-      "grade": "Abyssal",
-      "noob": 983235,
-      "intermediate": 625258,
-      "challenger": 427321,
-      "player": 411458,
-      "alien": 395158,
-      "alien_plus": 385452
-    }
-  },
-  {
-    "uid": "d1I0RQQLjvUJLOmy9kiZDGX5E4e",
-    "tmId": 141492,
-    "name": "Mindor",
-    "author": "Yannex",
-    "pvm": {
-      "grade": "Abyssal",
-      "noob": 1378654,
-      "intermediate": 763784,
-      "challenger": 561564,
-      "player": 538654,
-      "alien": 523784,
-      "alien_plus": 515775
-    }
-  },
-  {
-    "uid": "yykpIcRQQyRC4kqnWeyac5gDHr6",
-    "tmId": 54547,
-    "name": "Citadel",
-    "author": "Sympthome",
-    "pvm": {
-      "grade": "Abyssal",
-      "noob": 1735253,
-      "intermediate": 895253,
-      "challenger": 691564,
-      "player": 655253,
-      "alien": 641235,
-      "alien_plus": 636474
-    }
-  },
-  {
-    "uid": "ZWDc78Lt4vMMhVpdAlXaXL6cvJ1",
-    "tmId": 162240,
-    "name": "V\u00F6strau",
-    "author": "Feight",
-    "pvm": {
-      "grade": "Omniscient",
-      "noob": 123853,
-      "intermediate": 71587,
-      "challenger": 56135,
-      "player": 52954,
-      "alien": 49885,
-      "alien_plus": 0
-    }
-  },
-  {
-    "uid": "GqbYvMjDPu_LW3G813HTCamZEP5",
-    "tmId": 50566,
-    "name": "Jungle",
-    "author": "Qiraj",
-    "pvm": {
-      "grade": "Omniscient",
-      "noob": 643598,
-      "intermediate": 463598,
-      "challenger": 298354,
-      "player": 283598,
-      "alien": 269723,
-      "alien_plus": 261715
-    }
-  },
-  {
-    "uid": "tHIE64j4fUBxSQt16NjI7bAYJZ5",
-    "tmId": 224229,
-    "name": "Quandary Pixel 2",
-    "author": "Qiraj",
-    "pvm": {
-      "grade": "Omniscient",
-      "noob": 1113432,
-      "intermediate": 495796,
-      "challenger": 405453,
-      "player": 389835,
-      "alien": 374354,
-      "alien_plus": 370558
-    }
-  },
-  {
-    "uid": "h1GQ2B_gOe1qBhj31YAbcKbhhPi",
-    "tmId": 81516,
-    "name": "North Pole Factory",
-    "author": "Mokuura",
-    "pvm": {
-      "grade": "Omniscient",
-      "noob": 723459,
-      "intermediate": 518459,
-      "challenger": 464324,
-      "player": 443459,
-      "alien": 407127,
-      "alien_plus": 398944
-    }
-  },
-  {
-    "uid": "MkEUviHygKzVv_MVfFznI0Kf6xg",
-    "tmId": 177289,
-    "name": "Oblivion Novice",
-    "author": "Qiraj",
-    "pvm": {
-      "grade": "Omniscient",
-      "noob": 1545000,
-      "intermediate": 731258,
-      "challenger": 502245,
-      "player": 0,
-      "alien": 0,
-      "alien_plus": 0
-    }
-  },
-  {
-    "uid": "1qDStYkG0z8bGaYA5YLaAt6vJC1",
-    "tmId": 83360,
-    "name": "Artefact Act II - Downfall",
-    "author": "ziyx",
-    "pvm": {
-      "grade": "Omniscient",
-      "noob": 1657384,
-      "intermediate": 797647,
-      "challenger": 607425,
-      "player": 617158,
-      "alien": 561846,
-      "alien_plus": 556354
     }
   },
   {
@@ -1260,6 +1170,111 @@
     }
   },
   {
+    "uid": "1qDStYkG0z8bGaYA5YLaAt6vJC1",
+    "tmId": 83360,
+    "name": "Artefact Act II - Downfall",
+    "author": "ziyx",
+    "pvm": {
+      "grade": "Omniscient",
+      "noob": 1657384,
+      "intermediate": 797647,
+      "challenger": 607425,
+      "player": 617158,
+      "alien": 561846,
+      "alien_plus": 556354
+    }
+  },
+  {
+    "uid": "MkEUviHygKzVv_MVfFznI0Kf6xg",
+    "tmId": 177289,
+    "name": "Oblivion Novice",
+    "author": "Qiraj",
+    "pvm": {
+      "grade": "Omniscient",
+      "noob": 1545000,
+      "intermediate": 731258,
+      "challenger": 502245,
+      "player": 0,
+      "alien": 0,
+      "alien_plus": 0
+    }
+  },
+  {
+    "uid": "66QTibm8pQ9F0QPB537mtTRyaz2",
+    "tmId": 78381,
+    "name": "Oblivion",
+    "author": "Qiraj",
+    "pvm": {
+      "grade": "Omniscient",
+      "noob": 0,
+      "intermediate": 0,
+      "challenger": 0,
+      "player": 489415,
+      "alien": 462123,
+      "alien_plus": 448821
+    }
+  },
+  {
+    "uid": "tHIE64j4fUBxSQt16NjI7bAYJZ5",
+    "tmId": 224229,
+    "name": "Quandary Pixel 2",
+    "author": "Qiraj",
+    "pvm": {
+      "grade": "Omniscient",
+      "noob": 1113432,
+      "intermediate": 495796,
+      "challenger": 405453,
+      "player": 389835,
+      "alien": 374354,
+      "alien_plus": 370558
+    }
+  },
+  {
+    "uid": "GqbYvMjDPu_LW3G813HTCamZEP5",
+    "tmId": 50566,
+    "name": "Jungle",
+    "author": "Qiraj",
+    "pvm": {
+      "grade": "Omniscient",
+      "noob": 643598,
+      "intermediate": 463598,
+      "challenger": 298354,
+      "player": 283598,
+      "alien": 269723,
+      "alien_plus": 261715
+    }
+  },
+  {
+    "uid": "ZWDc78Lt4vMMhVpdAlXaXL6cvJ1",
+    "tmId": 162240,
+    "name": "V\u00F6strau",
+    "author": "Feight",
+    "pvm": {
+      "grade": "Omniscient",
+      "noob": 123853,
+      "intermediate": 71587,
+      "challenger": 56135,
+      "player": 52954,
+      "alien": 49885,
+      "alien_plus": 0
+    }
+  },
+  {
+    "uid": "h1GQ2B_gOe1qBhj31YAbcKbhhPi",
+    "tmId": 81516,
+    "name": "North Pole Factory",
+    "author": "Mokuura",
+    "pvm": {
+      "grade": "Omniscient",
+      "noob": 723459,
+      "intermediate": 518459,
+      "challenger": 464324,
+      "player": 443459,
+      "alien": 407127,
+      "alien_plus": 398944
+    }
+  },
+  {
     "uid": "K1L_OIXsHSe1XglWz53I8UmK5S6",
     "tmId": 117963,
     "name": "Quandary Islands",
@@ -1272,21 +1287,6 @@
       "player": 355584,
       "alien": 338231,
       "alien_plus": 331534
-    }
-  },
-  {
-    "uid": "uUdkrSCaRtAmPYj1143vtnheB62",
-    "tmId": 74035,
-    "name": "Adhara",
-    "author": "Fab",
-    "pvm": {
-      "grade": "Divin",
-      "noob": 1901564,
-      "intermediate": 647561,
-      "challenger": 421546,
-      "player": 398594,
-      "alien": 378561,
-      "alien_plus": 375189
     }
   },
   {
@@ -1365,6 +1365,36 @@
     }
   },
   {
+    "uid": "uUdkrSCaRtAmPYj1143vtnheB62",
+    "tmId": 74035,
+    "name": "Adhara",
+    "author": "Fab",
+    "pvm": {
+      "grade": "Divin",
+      "noob": 1901564,
+      "intermediate": 647561,
+      "challenger": 421546,
+      "player": 398594,
+      "alien": 378561,
+      "alien_plus": 375189
+    }
+  },
+  {
+    "uid": "2WSpb4BJgH_pUyd5D9__dS2eB1g",
+    "tmId": 77483,
+    "name": "LAB 77!",
+    "author": "Qiraj",
+    "pvm": {
+      "grade": "God",
+      "noob": 5850158,
+      "intermediate": 3900000,
+      "challenger": 2148564,
+      "player": 1788125,
+      "alien": 1488845,
+      "alien_plus": 1478225
+    }
+  },
+  {
     "uid": "tMrLGgNR5BrAO2pBv_VQB7JJ8h9",
     "tmId": 140511,
     "name": "Castle Rush 3",
@@ -1422,36 +1452,6 @@
       "player": 1367456,
       "alien": 1045256,
       "alien_plus": 902645
-    }
-  },
-  {
-    "uid": "2WSpb4BJgH_pUyd5D9__dS2eB1g",
-    "tmId": 77483,
-    "name": "LAB 77!",
-    "author": "Qiraj",
-    "pvm": {
-      "grade": "God",
-      "noob": 5850158,
-      "intermediate": 3900000,
-      "challenger": 2148564,
-      "player": 1788125,
-      "alien": 1488845,
-      "alien_plus": 1478225
-    }
-  },
-  {
-    "uid": "66QTibm8pQ9F0QPB537mtTRyaz2",
-    "tmId": 78381,
-    "name": "Oblivion",
-    "author": "Qiraj",
-    "pvm": {
-      "grade": "Omniscient",
-      "noob": 0,
-      "intermediate": 0,
-      "challenger": 0,
-      "player": 489415,
-      "alien": 462123,
-      "alien_plus": 448821
     }
   }
 ]
