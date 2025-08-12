@@ -189,7 +189,7 @@
       "noob": 118687,
       "intermediate": 70125,
       "challenger": 59855,
-      "player": 52878,
+      "player": 52848,
       "alien": 50664,
       "alien_plus": 0
     }
@@ -1485,8 +1485,8 @@
     }
   },
   {
-    "uid": "n2_fEbEBP6o4486vMs0urUq7yL6",
-    "tmId": 73770,
+    "uid": "oYpNoo4XdKtkkcWw_yXnbXzq559",
+    "tmId": 133539,
     "name": "Falling Turtles (CP)",
     "author": "Qiraj",
     "pvm": {
@@ -1494,14 +1494,14 @@
       "noob": 5269439,
       "intermediate": 3169439,
       "challenger": 1593459,
-      "player": 1009439,
-      "alien": 846684,
-      "alien_plus": 785454
+      "player": 1367456,
+      "alien": 1045256,
+      "alien_plus": 902645
     }
   },
   {
-    "uid": "oYpNoo4XdKtkkcWw_yXnbXzq559",
-    "tmId": 133539,
+    "uid": "n2_fEbEBP6o4486vMs0urUq7yL6",
+    "tmId": 73770,
     "name": "Quandary Pixel",
     "author": "Qiraj",
     "pvm": {
@@ -1509,9 +1509,9 @@
       "noob": 5387456,
       "intermediate": 3505256,
       "challenger": 1283878,
-      "player": 1367456,
-      "alien": 1045256,
-      "alien_plus": 902645
+      "player": 1009439,
+      "alien": 846684,
+      "alien_plus": 785454
     }
   }
 ]
