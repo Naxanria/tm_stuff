@@ -555,21 +555,6 @@
     }
   },
   {
-    "uid": "JTu04iOIEjJGyha2SeGemNta8Pe",
-    "tmId": 260743,
-    "name": "Evergloom",
-    "author": "Scarzor",
-    "pvm": {
-      "grade": "S",
-      "noob": 0,
-      "intermediate": 0,
-      "challenger": 0,
-      "player": 0,
-      "alien": 0,
-      "alien_plus": 0
-    }
-  },
-  {
     "uid": "6KhgyBXQMONeEZWYH9b8Xg1f9j2",
     "tmId": 216861,
     "name": "Ruined Crystalis",
@@ -582,6 +567,21 @@
       "player": 209741,
       "alien": 200898,
       "alien_plus": 198492
+    }
+  },
+  {
+    "uid": "JTu04iOIEjJGyha2SeGemNta8Pe",
+    "tmId": 260743,
+    "name": "Evergloom",
+    "author": "Scarzor",
+    "pvm": {
+      "grade": "S",
+      "noob": 287564,
+      "intermediate": 201732,
+      "challenger": 183525,
+      "player": 174892,
+      "alien": 165445,
+      "alien_plus": 0
     }
   },
   {
