@@ -460,8 +460,8 @@
       "intermediate": 221479,
       "challenger": 209122,
       "player": 196215,
-      "alien": 187840,
-      "alien_plus": 0
+      "alien": 186840,
+      "alien_plus": 180118
     }
   },
   {
@@ -1528,5 +1528,4 @@
       "alien": 1488845,
       "alien_plus": 1478225
     }
-  }
-]
+ 
