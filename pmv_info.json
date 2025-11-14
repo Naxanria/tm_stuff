@@ -1,0 +1,21 @@
+{
+  "PVMS" : 
+  [
+    {
+      "name": "RPG",
+      "id": 0,
+      "author": "Delaweed",
+      "json": "https://raw.githubusercontent.com/Naxanria/pvm_data/refs/heads/main/pvm_rpg.json",
+      "sheet": "https://docs.google.com/spreadsheets/d/1z1n6LfHMskAzD4N6CTNrnhyjFtgN_54TGlAyoU6eOnk/edit?usp=sharing",
+      "discord": ""      
+    },
+	{
+      "name": "Tech",
+      "id": 1,
+      "author": "Tommy",
+      "json": "https://raw.githubusercontent.com/Naxanria/pvm_data/refs/heads/main/pvm_tech.json",
+      "sheet": "https://docs.google.com/spreadsheets/d/18iCfnvcRBmZW8fD3UzfZX17vCvH2OjDRm-XCQiQDNng/edit?usp=sharing",
+      "discord": ""      
+    }
+  ]
+}
