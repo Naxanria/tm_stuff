@@ -21,8 +21,16 @@
       "name": "FullSpeed",
       "id": 2,
       "author": "Zimzalabim",
-      "json": "https://gist.githubusercontent.com/psychoedge/214b347f103cf65dfb6b55c1171d9123/raw/5828d46460bc55c0b00a00b9ab6800be636252ad/pvm_fs.json",
+      "json": "https://raw.githubusercontent.com/psychoedge/pvm_fs_data/refs/heads/main/pvm_fs.json",
       "sheet": "https://docs.google.com/spreadsheets/d/15Mf_jo_F7IGEtFPw-4XLMlY5CEhAgxBVzcvUnYKguPU/edit?usp=sharing",
+      "discord": ""
+    },
+    {
+      "name": "Dirt",
+      "id": 3,
+      "author": "Mime",
+      "json": "https://raw.githubusercontent.com/antgoing/dirt_pvm/refs/heads/main/dirtpvmconfig.json",
+      "sheet": "",
       "discord": ""
     }
   ]
