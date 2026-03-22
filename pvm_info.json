@@ -15,7 +15,7 @@
       "author": "Tommy",
       "json": "https://raw.githubusercontent.com/Naxanria/pvm_data/refs/heads/main/pvm_tech.json",
       "sheet": "https://docs.google.com/spreadsheets/d/18iCfnvcRBmZW8fD3UzfZX17vCvH2OjDRm-XCQiQDNng/edit?usp=sharing",
-      "discord": ""      
+      "discord": "https://discord.gg/2veJ4Ugt"      
     },
     {
       "name": "FullSpeed",
@@ -23,7 +23,7 @@
       "author": "Zimzalabim",
       "json": "https://raw.githubusercontent.com/psychoedge/pvm_fs_data/refs/heads/main/pvm_fs.json",
       "sheet": "https://docs.google.com/spreadsheets/d/15Mf_jo_F7IGEtFPw-4XLMlY5CEhAgxBVzcvUnYKguPU/edit?usp=sharing",
-      "discord": ""
+      "discord": "https://discord.gg/mFak8gVQmY"
     },
     {
       "name": "Dirt",
@@ -32,6 +32,14 @@
       "json": "https://raw.githubusercontent.com/antgoing/dirt_pvm/refs/heads/main/dirtpvmconfig.json",
       "sheet": "",
       "discord": ""
-    }
+    },
+	{
+		"name": "Ice",
+		"id": 4,
+		"author": "Mattynator",
+		"json": "https://raw.githubusercontent.com/Mattynator0/pvm_data/refs/heads/main/pvm_ice.json",
+		"sheet": "",
+		"discord": ""
+	}
   ]
 }
