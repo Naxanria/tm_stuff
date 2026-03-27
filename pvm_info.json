@@ -13,7 +13,7 @@
       "name": "Tech",
       "id": 1,
       "author": "Tommy",
-      "json": "https://raw.githubusercontent.com/Naxanria/pvm_data/refs/heads/main/pvm_tech.json",
+      "json": "https://raw.githubusercontent.com/psychoedge/pvm_tech_data/refs/heads/main/pvm_tech.json",
       "sheet": "https://docs.google.com/spreadsheets/d/18iCfnvcRBmZW8fD3UzfZX17vCvH2OjDRm-XCQiQDNng/edit?usp=sharing",
       "discord": "https://discord.gg/2veJ4Ugt"      
     },
