@@ -40,14 +40,6 @@
 		"json": "https://raw.githubusercontent.com/Mattynator0/pvm_data/refs/heads/main/pvm_ice.json",
 		"sheet": "",
 		"discord": ""
-	},
-    {
-		"name": "Mixed",
-		"id": 5,
-		"author": "Tommy",
-		"json": "https://raw.githubusercontent.com/psychoedge/pvm_mixed_data/refs/heads/main/pvm_mixed.json",
-		"sheet": "",
-		"discord": "https://discord.gg/2veJ4Ugt"
 	}
   ]
 }
